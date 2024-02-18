@@ -1,8 +1,8 @@
 #include <iostream>
 #include <vector>
 #include "Grid.h"
-#include "allDirectionGrid.h"
-#include "horizontalVerticalGrid.h"
+#include "AllDirectionGrid.h"
+#include "HorizontalVerticalGrid.h"
 
 int main()
 {

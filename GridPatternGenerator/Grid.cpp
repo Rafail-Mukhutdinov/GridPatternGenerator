@@ -1,4 +1,4 @@
-#include "grid.h"
+#include "Grid.h"
 
 void Grid::printGrid()
 {

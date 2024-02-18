@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "grid.h"
+#include "Grid.h"
 #include "allDirectionGrid.h"
 #include "horizontalVerticalGrid.h"
 

@@ -4,6 +4,15 @@ project(GridNodeCombinatorics)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(GridNodeCombinatorics   main.cpp)
+add_executable(GridNodeCombinatorics   main.cpp
+                                       Grid.cpp
+                                       Grid.h                                       
+                                       HorizontalVerticalGrid.cpp 
+                                       HorizontalVerticalGrid.h                                      
+                                       AllDirectionGrid.cpp
+                                       AllDirectionGrid.h)
 
-target_link_libraries(GridNodeCombinatorics  gtest_main)
+
+
+
+target_link_libraries(GridNodeCombinatorics)

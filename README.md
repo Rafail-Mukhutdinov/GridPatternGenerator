@@ -1,0 +1,1 @@
+[![CMake on multiple platforms](https://github.com/Rafail-Mukhutdinov/GridPatternGenerator/actions/workflows/cmake-multi-platform.yml/badge.svg)](https://github.com/Rafail-Mukhutdinov/GridPatternGenerator/actions/workflows/cmake-multi-platform.yml)
